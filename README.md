@@ -1,8 +1,8 @@
 # F4 DataCrawler
 
-Server para:
+Serve para:
   - Busca recursiva por arquivos de uma determinada extenção. (ex: -simple txt pdf xlsx)
-  - Busca recursiva por arquivos de uma determinada extenção, lê esses arquivos e procurar o que você quiser através do RegEx que você passar, como cpf, rg, ip,         cartão, etc... (ex: main.py -r '\d{3}\.\d{3}\.\d{3}-\d{2}' -v -xlsx).
+  - Busca recursiva por arquivos de uma determinada extenção, lê esses arquivos e procurar o que você quiser através do RegEx que você passar, como cpf, rg, ip,etc...       (ex: main.py -r '\d{3}\.\d{3}\.\d{3}-\d{2}' -v -xlsx).     
 
 Você pode:
   - Salvar a saída em um arquivo da sua escolha(-s saida.txt)
